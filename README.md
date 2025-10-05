@@ -62,9 +62,9 @@ Here are some labs and configurations I’m currently working on:
 ---
 
 ### 💬 Connect with Me
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN)
-- ✉️ Email: youremail@example.com
-- 🌐 [Portfolio Website](https://yourusername.github.io)
+- 💼 phone number : 6363968199
+- ✉️ Email: raghus636396@gmail.com
+- 🌐 [Portfolio Website](https://Raghu636396.github.io)
 
 ---
 
