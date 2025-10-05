@@ -64,7 +64,7 @@ Here are some labs and configurations I’m currently working on:
 ### 💬 Connect with Me
 - 💼 phone number : 6363968199
 - ✉️ Email: raghus636396@gmail.com
-- 🌐 [Portfolio Website](https://Raghu636396.github.io)
+- 🌐 [Portfolio Website]:https://rAGHU636396.github.io
 
 ---
 
